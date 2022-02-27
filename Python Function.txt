@@ -5,6 +5,7 @@ Some basic Math functions in python
 # Adding function
 def add(a,b):
 	return a+b
+	pass
 
 # Subtracting function 
 def sub(a,b):
