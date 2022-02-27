@@ -1,3 +1,7 @@
+
+Some basic Math functions in python
+
+
 # Adding function
 def add(a,b):
 	return a+b
