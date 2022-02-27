@@ -1,0 +1,15 @@
+# Adding function
+def add(a,b):
+	return a+b
+
+# Subtracting function 
+def sub(a,b):
+	return a-b
+
+# Multiplication function
+def mul(a,b):
+	return a*b
+
+# Division function
+def div(a,b):
+	reuturn a/b
